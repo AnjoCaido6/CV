@@ -1,13 +1,10 @@
 ---
-name: Bryan
-surname: Jenks
-position: "Information Technology Specialist II"
-address: "Covered California"
-profilepic: "./img/me.jpg"
-www: "bryanjenks.dev"
-email: "bryan@bryanjenks.dev"
-github: tallguyjenks
-linkedin: bryanjenks
+name: Arbi
+surname: Skenderaga
+position: "IT Student"
+address: "Richmond, London"
+email: "arbiskenderaga6@gmail.com"
+linkedin: arbiskenderaga
 orcid: 0000-0002-9604-3069
 date: "`r format(Sys.time(), '%B %Y')`"
 headcolor: 990000
